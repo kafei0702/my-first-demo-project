@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f4f8;
+    font-family: 微软雅黑;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 0 15px #ccc;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #222;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 25px;
+    border: none;
+    background: #409eff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}

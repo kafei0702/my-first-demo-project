@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的第一个开源主页</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">
+        <h1>👋 你好，我是新手开发者</h1>
+        <p>这是我在 GitHub 第一个开源项目</p>
+        <p>学习编程、慢慢进步✨</p>
+        <button onclick="sayHello()">点我有惊喜</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
